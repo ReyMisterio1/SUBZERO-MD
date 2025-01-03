@@ -25,14 +25,14 @@ function convertToBool(text, fault = 'true') {
 
 //--------------------------Mr Frank--------------------------------------
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "Enter Your SubZero Session ID",
+    SESSION_ID: process.env.SESSION_ID || "bFhQSLaI#JpX4xvOWnSnv30hzo5AtX_44I4EQs_C0JCopcyZr3xM",
     CAPTION: process.env.CAPTION || "*©  Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ SᴜʙZᴇʀᴏ MD*",
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     READ_MESSAGE: process.env.READ_MESSAGE || "false", // Added auto-read configuration
     AUTO_TYPING: process.env.AUTO_TYPING || "false",
     CURRENT_STATUS: process.env.CURRENT_STATUS || "false",
-    MODE: process.env.MODE || "public",
+    MODE: process.env.MODE || "private",
     AUTO_VOICE: process.env.AUTO_VOICE || "false",
     AUTO_STICKER: process.env.AUTO_STICKER || "false",
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
@@ -40,12 +40,12 @@ module.exports = {
     ALIVE_MSG: process.env.ALIVE_MSG || "sᴜʙᴢᴇʀᴏ ᴍᴅ ɪs ᴏɴʟɪɴᴇ🚀",
     ANTI_LINK: process.env.ANTI_LINK || "true",
     ANTI_BAD: process.env.ANTI_BAD || "true",
-    PREFIX: process.env.PREFIX || ".",
+    PREFIX: process.env.PREFIX || "+",
     FAKE_RECORDING: process.env.FAKE_RECORDING || "false",
     AUTO_REACT: process.env.AUTO_REACT || "false",
     HEART_REACT: process.env.HEART_REACT || "false",
     OWNER_REACT: process.env.OWNER_REACT || "false",
-    BOT_NAME: process.env.BOT_NAME || "『 𝐒𝐔𝐁𝐙𝐄𝐑𝐎 𝐌𝐃 』",
+    BOT_NAME: process.env.BOT_NAME || "『 Sky Plug-𝐌𝐃 』",
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
     AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "`Status Seen By SubZero Bot 🦄 `",
     OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
